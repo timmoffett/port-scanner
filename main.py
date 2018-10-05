@@ -226,5 +226,3 @@ if __name__ == "__main__":
         tcp = True
 
     main()
-
-#https://github.com/EBoespflug/port-scanner-scapy/blob/master/main.py
