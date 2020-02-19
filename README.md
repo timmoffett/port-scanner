@@ -3,7 +3,7 @@
 **this has only been tested on windows 10**
 
 Setup:
-1. Make sure you are using python 2.7
+1. Make sure you are using python 3
 2. pip install argparse
 3. pip install pdfkit
 (optional) if you are using linux install pdfkit **this has not been thoroughly tested**
